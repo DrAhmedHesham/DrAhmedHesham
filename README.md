@@ -72,20 +72,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DrAhmedHesham&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=AFA9EC&text_color=c9d1d9&icon_color=5DCAA5&hide_border=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrAhmedHesham&layout=compact&langs_count=6&bg_color=0d1117&title_color=AFA9EC&text_color=c9d1d9&icon_color=5DCAA5&hide_border=true" height="165" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=DrAhmedHesham&background=0d1117&border=0d1117&ring=7F77DD&fire=F0997B&currStreakNum=FFFFFF&currStreakLabel=AFA9EC&sideNums=FFFFFF&sideLabels=8b949e&dates=8b949e&stroke=30363d" width="100%" alt="Contribution streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DrAhmedHesham&bg_color=0d1117&color=c9d1d9&line=7F77DD&point=5DCAA5&area=true&area_color=26215C&hide_border=true&title_color=AFA9EC&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph"/>
-
-<img src="https://github-trophies.vercel.app/?username=DrAhmedHesham&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrAhmedHesham/DrAhmedHesham/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DrAhmedHesham/DrAhmedHesham/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/DrAhmedHesham/DrAhmedHesham/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<img src="https://streak-stats.demolab.com?user=DrAhmedHesham&hide_current_streak=true&hide_longest_streak=true&background=0d1117&border=0d1117&sideNums=FFFFFF&sideLabels=AFA9EC&dates=8b949e&stroke=0d1117&card_width=300&card_height=150" height="150" alt="Total contributions"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DrAhmedHesham&hide=stars,commits,prs,contribs&hide_rank=true&show_icons=true&custom_title=Total%20Issues&card_width=300&bg_color=0d1117&title_color=AFA9EC&text_color=c9d1d9&icon_color=5DCAA5&hide_border=true" height="150" alt="Total issues"/>
 
 </div>
 
