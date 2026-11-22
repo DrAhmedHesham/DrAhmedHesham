@@ -81,14 +81,6 @@
 <img src="https://img.shields.io/badge/SQLite-7F77DD?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 <img src="https://img.shields.io/badge/Redis-26215C?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 
-<sub><b>AI AND MACHINE LEARNING</b></sub><br/>
-<img src="https://img.shields.io/badge/On--device%20AI-26215C?style=for-the-badge" alt="On-device AI"/>
-<img src="https://img.shields.io/badge/Computer%20vision-3C3489?style=for-the-badge" alt="Computer vision"/>
-<img src="https://img.shields.io/badge/LangChain%20%26%20LangGraph-534AB7?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain & LangGraph"/>
-<img src="https://img.shields.io/badge/AI%20agents%20%26%20MCP-7F77DD?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="AI agents & MCP"/>
-<img src="https://img.shields.io/badge/RAG%20%26%20pgvector-26215C?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG & pgvector"/>
-<img src="https://img.shields.io/badge/OpenAI%20%26%20Claude%20APIs-3C3489?style=for-the-badge&logo=anthropic&logoColor=white" alt="OpenAI & Claude APIs"/>
-
 <sub><b>SECURITY AND REVERSE ENGINEERING</b></sub><br/>
 <img src="https://img.shields.io/badge/Ghidra-26215C?style=for-the-badge" alt="Ghidra"/>
 <img src="https://img.shields.io/badge/IDA%20Pro%20%26%20x64dbg-3C3489?style=for-the-badge" alt="IDA Pro & x64dbg"/>
@@ -106,9 +98,6 @@
 <br/>
 
 <sub>THANKS FOR STOPPING BY</sub>
-
-<a href="https://drahmed.me"><img src="https://img.shields.io/badge/drahmed.me-26215C?style=for-the-badge&logo=googlechrome&logoColor=CECBF6" alt="Website"/></a>
-<a href="https://psnprofiles.com/DrAhmedHesham"><img src="https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN"/></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020%2C100:26215C&height=100&section=footer"/>
