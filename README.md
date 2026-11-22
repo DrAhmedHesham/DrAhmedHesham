@@ -43,18 +43,6 @@
 
 </div>
 
-## Core languages
-
-<p>
-<img src="https://img.shields.io/badge/Swift-iOS%20apps-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=161b22" alt="Swift: iOS apps"/>
-<img src="https://img.shields.io/badge/Kotlin-Android-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=161b22" alt="Kotlin: Android"/>
-<img src="https://img.shields.io/badge/Java-Android-E76F00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=161b22" alt="Java: Android"/>
-<img src="https://img.shields.io/badge/Python-AI%20and%20backends-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=161b22" alt="Python: AI and backends"/>
-<img src="https://img.shields.io/badge/JS%20%2F%20TS-Web-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=161b22" alt="JS / TS: Web"/>
-<img src="https://img.shields.io/badge/C%23-.NET%20desktop-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=161b22" alt="C#: .NET desktop"/>
-<img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B%20%26%20ASM-Reversing-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=161b22" alt="C / C++ & ASM: Reversing"/>
-</p>
-
 ## Tech stack
 
 ### Languages
