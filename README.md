@@ -93,11 +93,19 @@
 
 ### iOS tweaks
 
-<sub>Jailbreak tweaks and runtime hooking</sub>
+<sub>Jailbreak tweaks for RootHide and rootless, like <a href="https://github.com/DrAhmedHesham/DropletBanner">DropletBanner</a></sub>
 
 <p>
 <img src="https://img.shields.io/badge/Theos-1D1D1F?style=for-the-badge" alt="Theos"/>
-<img src="https://img.shields.io/badge/Logos-8E44AD?style=for-the-badge" alt="Logos"/>
+<img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C"/>
+<img src="https://img.shields.io/badge/RootHide-2C3E50?style=for-the-badge" alt="RootHide"/>
+<img src="https://img.shields.io/badge/Rootless-16A085?style=for-the-badge" alt="Rootless"/>
+<img src="https://img.shields.io/badge/Substrate%20%2F%20ElleKit-C0392B?style=for-the-badge" alt="Substrate / ElleKit"/>
+<img src="https://img.shields.io/badge/PreferenceLoader-6C5CE7?style=for-the-badge&logo=apple&logoColor=white" alt="PreferenceLoader"/>
+<img src="https://img.shields.io/badge/SpringBoard%20hooks-0B0F19?style=for-the-badge&logo=apple&logoColor=white" alt="SpringBoard hooks"/>
+<img src="https://img.shields.io/badge/Core%20Animation-FF9F0A?style=for-the-badge&logo=apple&logoColor=black" alt="Core Animation"/>
+<img src="https://img.shields.io/badge/Core%20Motion-34C759?style=for-the-badge&logo=apple&logoColor=black" alt="Core Motion"/>
+<img src="https://img.shields.io/badge/arm64e-00599C?style=for-the-badge&logo=arm&logoColor=white" alt="arm64e"/>
 </p>
 
 ### Android apps
