@@ -74,8 +74,6 @@
 
 ### iOS apps
 
-<sub>Used in TrueShade, Claspr and RAIDnGo, including on-device AI, AR overlays, widgets and subscriptions</sub>
-
 <p>
 <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
@@ -91,8 +89,6 @@
 
 ### iOS tweaks
 
-<sub>Jailbreak tweaks for RootHide and rootless, like <a href="https://github.com/DrAhmedHesham/DropletBanner">DropletBanner</a></sub>
-
 <p>
 <img src="https://img.shields.io/badge/Theos-1D1D1F?style=for-the-badge" alt="Theos"/>
 <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C"/>
@@ -107,8 +103,6 @@
 </p>
 
 ### Android apps
-
-<sub>Used in Claspr</sub>
 
 <p>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
@@ -150,8 +144,6 @@
 
 ### AI and computer vision
 
-<sub>Real-time tooth shade detection in TrueShade, plus agentic tools, RAG pipelines and MCP servers</sub>
-
 <p>
 <img src="https://img.shields.io/badge/On--device%20AI-34C759?style=for-the-badge" alt="On-device AI"/>
 <img src="https://img.shields.io/badge/Computer%20vision-5E5CE6?style=for-the-badge" alt="Computer vision"/>
@@ -164,8 +156,6 @@
 </p>
 
 ### Security and reverse engineering
-
-<sub>App audits and reverse engineering across desktop and mobile</sub>
 
 <p>
 <img src="https://img.shields.io/badge/Ghidra-B5251D?style=for-the-badge" alt="Ghidra"/>
