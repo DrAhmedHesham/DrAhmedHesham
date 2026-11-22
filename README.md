@@ -57,45 +57,6 @@
 <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B%20%26%20ASM-Reversing-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=161b22" alt="C / C++ & ASM: Reversing"/>
 </p>
 
-## Featured projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>🦷 TrueShade</b><br/>
-<sub>Real-time AI tooth shade detection with AR overlays, fully offline</sub><br/><br/>
-<code>Swift</code> <code>SwiftUI</code> <code>Core ML</code> <code>Vision</code> <code>ARKit</code>
-</td>
-<td width="33%" valign="top">
-<b>🎓 Claspr</b><br/>
-<sub>RPD design tool and practice game for dental students, offline and ad-free</sub><br/><br/>
-<code>Swift</code> <code>Kotlin</code> <code>SwiftUI</code> <code>Jetpack Compose</code>
-</td>
-<td width="33%" valign="top">
-<b>🗺️ RAIDnGo</b><br/>
-<sub>ARC Raiders companion with maps, quests, skill planner and widgets</sub><br/><br/>
-<code>Swift</code> <code>SwiftUI</code> <code>WidgetKit</code> <code>StoreKit</code>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-<b>🍏 iOS tweaks</b><br/>
-<sub>Jailbreak tweaks and runtime hooking</sub><br/><br/>
-<code>Theos</code> <code>Logos</code>
-</td>
-<td width="33%" valign="top">
-<b>🛡️ Security research</b><br/>
-<sub>App audits and reverse engineering across desktop and mobile</sub><br/><br/>
-<code>Ghidra</code> <code>IDA Pro</code> <code>Frida</code> <code>Burp Suite</code> <code>Semgrep</code>
-</td>
-<td width="33%" valign="top">
-<b>🤖 AI agents</b><br/>
-<sub>Agentic tools, RAG pipelines and MCP servers</sub><br/><br/>
-<code>Python</code> <code>LangGraph</code> <code>pgvector</code> <code>FastAPI</code> <code>MCP</code>
-</td>
-</tr>
-</table>
-
 ## Tech stack
 
 ### Languages
@@ -115,6 +76,8 @@
 
 ### iOS apps
 
+<sub>Used in TrueShade, Claspr and RAIDnGo, including on-device AI, AR overlays, widgets and subscriptions</sub>
+
 <p>
 <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
 <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
@@ -130,12 +93,16 @@
 
 ### iOS tweaks
 
+<sub>Jailbreak tweaks and runtime hooking</sub>
+
 <p>
 <img src="https://img.shields.io/badge/Theos-1D1D1F?style=for-the-badge" alt="Theos"/>
 <img src="https://img.shields.io/badge/Logos-8E44AD?style=for-the-badge" alt="Logos"/>
 </p>
 
 ### Android apps
+
+<sub>Used in Claspr</sub>
 
 <p>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
@@ -177,6 +144,8 @@
 
 ### AI and computer vision
 
+<sub>Real-time tooth shade detection in TrueShade, plus agentic tools, RAG pipelines and MCP servers</sub>
+
 <p>
 <img src="https://img.shields.io/badge/On--device%20AI-34C759?style=for-the-badge" alt="On-device AI"/>
 <img src="https://img.shields.io/badge/Computer%20vision-5E5CE6?style=for-the-badge" alt="Computer vision"/>
@@ -189,6 +158,8 @@
 </p>
 
 ### Security and reverse engineering
+
+<sub>App audits and reverse engineering across desktop and mobile</sub>
 
 <p>
 <img src="https://img.shields.io/badge/Ghidra-B5251D?style=for-the-badge" alt="Ghidra"/>
