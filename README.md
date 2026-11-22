@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:0b1020&height=200&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Prosthodontist%20By%20Profession%20%C2%B7%20Developer%20By%20Passion&descSize=17&descAlignY=58&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EEEDFE,100:CECBF6&height=200&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=26215C&fontSize=52&fontAlignY=36&desc=Prosthodontist%20By%20Profession%20%C2%B7%20Developer%20By%20Passion&descSize=17&descAlignY=58&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EEEDFE,100:CECBF6&height=200&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=26215C&fontSize=52&fontAlignY=36&desc=Prosthodontist%20By%20Profession%20%C2%B7%20Developer%20By%20Passion&descSize=17&descAlignY=58"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:0b1020&height=200&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Prosthodontist%20By%20Profession%20%C2%B7%20Developer%20By%20Passion&descSize=17&descAlignY=58&animation=fadeIn" alt="Hi, I'm Ahmed" width="100%"/>
 </picture>
 
