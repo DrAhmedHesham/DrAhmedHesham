@@ -45,15 +45,6 @@
 
 </div>
 
-## Highlights
-
-<p>
-<img src="https://img.shields.io/badge/Apps%20shipped-3-7F77DD?style=for-the-badge&labelColor=161b22" alt="Apps shipped: 3"/>
-<img src="https://img.shields.io/badge/Platforms-iOS%20%C2%B7%20Android-5DCAA5?style=for-the-badge&labelColor=161b22" alt="Platforms: iOS · Android"/>
-<img src="https://img.shields.io/badge/On-device%20AI-Core%20ML-F0997B?style=for-the-badge&labelColor=161b22" alt="On-device AI: Core ML"/>
-<img src="https://img.shields.io/badge/Focus-Dental%20tech-85B7EB?style=for-the-badge&labelColor=161b22" alt="Focus: Dental tech"/>
-</p>
-
 ## Core languages
 
 <p>
