@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:0b1020&height=200&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Prosthodontist%20By%20Profession%20%C2%B7%20Developer%20By%20Passion&descSize=17&descAlignY=58&animation=fadeIn" alt="Hi, I'm Ahmed" width="100%"/>
 
-<a href="https://github.com/DrAhmedHesham"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=AFA9EC&center=true&vCenter=true&width=720&height=48&letterSpacing=1px&lines=Turning+Clinical+Problems+Into+Apps+People+Use;Dental+Tech+%C2%B7+TrueShade+%C2%B7+Claspr;iOS+%C2%B7+Android+%C2%B7+Jailbreak+Tweaks;Security+Research+%C2%B7+Reverse+Engineering;On-Device+AI+%C2%B7+Computer+Vision+%C2%B7+AI+Agents" alt="Turning Clinical Problems Into Apps People Use"/></a>
+<a href="https://github.com/DrAhmedHesham"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=AFA9EC&center=true&vCenter=true&width=720&height=48&letterSpacing=1px&lines=Crafting+Apps+With+On-Device+AI;Shipping+iOS+And+Android+Apps;Reverse+Engineering+And+Jailbreak+Tweaks;Exploring+AI+Agents+And+MCP" alt="Crafting Apps With On-Device AI"/></a>
 
 <a href="https://drahmed.me"><img src="https://img.shields.io/badge/drahmed.me-26215C?style=for-the-badge&logo=googlechrome&logoColor=CECBF6" alt="Website"/></a>
 <a href="https://psnprofiles.com/DrAhmedHesham"><img src="https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN"/></a>
