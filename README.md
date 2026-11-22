@@ -15,24 +15,24 @@
 
 <div align="center">
 
-<table width="100%">
+<table>
 <tr>
 <td align="center" valign="top" width="33%">
-<br/>
+<img src="assets/spacer.png" width="210" height="1" alt=""/><br/>
 <img src="assets/trueshade-icon.png" width="88" alt="TrueShade icon"/><br/>
 <b>TrueShade</b><br/><br/>
 <a href="https://apps.apple.com/us/app/trueshade/id6752419756"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/></a>
 <br/><br/>
 </td>
 <td align="center" valign="top" width="33%">
-<br/>
+<img src="assets/spacer.png" width="210" height="1" alt=""/><br/>
 <img src="assets/claspr-icon.png" width="88" alt="Claspr icon"/><br/>
 <b>Claspr</b><br/><br/>
 <a href="https://apps.apple.com/app/claspr/id6818419380"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.claspr.app"><img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
 <br/><br/>
 </td>
 <td align="center" valign="top" width="33%">
-<br/>
+<img src="assets/spacer.png" width="210" height="1" alt=""/><br/>
 <img src="assets/raidngo-icon.png" width="88" alt="RAIDnGo icon"/><br/>
 <b>RAIDnGo</b><br/><br/>
 <a href="https://apps.apple.com/us/app/raidngo-arc-raiders-companion/id6758266179"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/></a>
