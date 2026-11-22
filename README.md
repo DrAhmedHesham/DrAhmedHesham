@@ -1,12 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:0b1020&height=200&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Prosthodontist%20By%20Profession%20%C2%B7%20Developer%20By%20Passion&descSize=17&descAlignY=58&animation=fadeIn" alt="Hi, I'm Ahmed" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:0b1020&height=200&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Prosthodontist%20By%20Profession%20%C2%B7%20Developer%20By%20Passion&descSize=17&descAlignY=58&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EEEDFE,100:CECBF6&height=200&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=26215C&fontSize=52&fontAlignY=36&desc=Prosthodontist%20By%20Profession%20%C2%B7%20Developer%20By%20Passion&descSize=17&descAlignY=58&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:0b1020&height=200&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Prosthodontist%20By%20Profession%20%C2%B7%20Developer%20By%20Passion&descSize=17&descAlignY=58&animation=fadeIn" alt="Hi, I'm Ahmed" width="100%"/>
+</picture>
 
-<a href="https://github.com/DrAhmedHesham"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=2000&color=AFA9EC&center=true&vCenter=true&width=720&height=48&letterSpacing=1px&lines=Crafting+Apps+For+iOS+And+Android;Reverse+Engineering+And+Jailbreak+Tweaks;Exploring+Neural+Networks+And+Machine+Learning" alt="Crafting Apps For iOS And Android"/></a>
+<a href="https://github.com/DrAhmedHesham"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=2000&color=AFA9EC&center=true&vCenter=true&width=720&height=48&letterSpacing=1px&lines=Crafting+Apps+For+iOS+And+Android;Reverse+Engineering+And+Jailbreak+Tweaks;Exploring+Neural+Networks+And+Machine+Learning"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=2000&color=534AB7&center=true&vCenter=true&width=720&height=48&letterSpacing=1px&lines=Crafting+Apps+For+iOS+And+Android;Reverse+Engineering+And+Jailbreak+Tweaks;Exploring+Neural+Networks+And+Machine+Learning"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=2000&color=AFA9EC&center=true&vCenter=true&width=720&height=48&letterSpacing=1px&lines=Crafting+Apps+For+iOS+And+Android;Reverse+Engineering+And+Jailbreak+Tweaks;Exploring+Neural+Networks+And+Machine+Learning" alt="Crafting Apps For iOS And Android"/>
+</picture></a>
 
 <a href="https://drahmed.me"><img src="https://img.shields.io/badge/drahmed.me-26215C?style=for-the-badge&logo=googlechrome&logoColor=CECBF6" alt="Website"/></a>
 <a href="https://psnprofiles.com/DrAhmedHesham"><img src="https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN"/></a>
-<img src="https://komarev.com/ghpvc/?username=DrAhmedHesham&style=for-the-badge&color=7F77DD&label=%F0%9F%91%81" alt="Profile views"/>
 <br/>
 <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DrAhmedHesham/DrAhmedHesham/stats/contributions.json&style=for-the-badge" alt="Total contributions"/>
 <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DrAhmedHesham/DrAhmedHesham/stats/issues.json&style=for-the-badge" alt="Total issues"/>
@@ -169,6 +176,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:26215C&height=100&section=footer" width="100%" alt=""/>
+<br/>
+
+<sub>THANKS FOR STOPPING BY</sub>
+
+<a href="https://drahmed.me"><img src="https://img.shields.io/badge/drahmed.me-26215C?style=for-the-badge&logo=googlechrome&logoColor=CECBF6" alt="Website"/></a>
+<a href="https://psnprofiles.com/DrAhmedHesham"><img src="https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN"/></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:26215C&height=100&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:CECBF6,100:EEEDFE&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:26215C&height=100&section=footer" width="100%" alt=""/>
+</picture>
 
 </div>
