@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:0b1020&height=180&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20engineer%20%C2%B7%20Security%20researcher%20%C2%B7%20Mobile%20and%20AI%20builder&descAlignY=60&descSize=16" alt="Hi, I'm Ahmed" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:0b1020&height=170&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=42&animation=fadeIn" alt="Hi, I'm Ahmed" width="100%"/>
 
-<a href="https://github.com/DrAhmedHesham"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=5DCAA5&center=true&vCenter=true&width=600&lines=%3E+Reversing+apps%2C+hooking+iOS%2C+shipping+AI+agents;%3E+Building+dental+tech+with+on-device+AI;%3E+iOS+%C2%B7+Android+%C2%B7+Web" alt="Typing intro"/></a>
+<a href="https://github.com/DrAhmedHesham"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=AFA9EC&center=true&vCenter=true&width=720&height=48&letterSpacing=1px&lines=Software+Engineer+%C2%B7+Security+Researcher;Mobile+And+AI+Builder;Reversing+Apps+%C2%B7+Hooking+iOS+%C2%B7+Shipping+AI+Agents;Building+Dental+Tech+With+On-Device+AI;iOS+%C2%B7+Android+%C2%B7+Web" alt="Software Engineer · Security Researcher · Mobile And AI Builder"/></a>
 
 <a href="https://drahmed.me"><img src="https://img.shields.io/badge/drahmed.me-26215C?style=for-the-badge&logo=googlechrome&logoColor=CECBF6" alt="Website"/></a>
-<a href="https://x.com/DrAhmedHesham27"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://www.youtube.com/@SendNoobs69"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://psnprofiles.com/DrAhmedHesham"><img src="https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN"/></a>
-<img src="https://komarev.com/ghpvc/?username=DrAhmedHesham&style=for-the-badge&color=7F77DD&label=Profile+views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=DrAhmedHesham&style=for-the-badge&color=7F77DD&label=%F0%9F%91%81" alt="Profile views"/>
 
 </div>
 
