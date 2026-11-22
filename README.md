@@ -7,6 +7,9 @@
 <a href="https://drahmed.me"><img src="https://img.shields.io/badge/drahmed.me-26215C?style=for-the-badge&logo=googlechrome&logoColor=CECBF6" alt="Website"/></a>
 <a href="https://psnprofiles.com/DrAhmedHesham"><img src="https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN"/></a>
 <img src="https://komarev.com/ghpvc/?username=DrAhmedHesham&style=for-the-badge&color=7F77DD&label=%F0%9F%91%81" alt="Profile views"/>
+<br/>
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DrAhmedHesham/DrAhmedHesham/stats/contributions.json&style=for-the-badge" alt="Total contributions"/>
+<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/DrAhmedHesham/DrAhmedHesham/stats/issues.json&style=for-the-badge" alt="Total issues"/>
 
 </div>
 
@@ -33,15 +36,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DrAhmedHesham&hide_current_streak=true&hide_longest_streak=true&background=0d1117&border=0d1117&sideNums=FFFFFF&sideLabels=AFA9EC&dates=8b949e&stroke=0d1117&card_width=300&card_height=150" height="150" alt="Total contributions"/>
-<img src="https://github-readme-stats.vercel.app/api?username=DrAhmedHesham&hide=stars,commits,prs,contribs&hide_rank=true&show_icons=true&custom_title=Total%20Issues&card_width=300&bg_color=0d1117&title_color=AFA9EC&text_color=c9d1d9&icon_color=5DCAA5&hide_border=true" height="150" alt="Total issues"/>
 
 </div>
 

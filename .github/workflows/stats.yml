@@ -1,0 +1,44 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      USER: ${{ github.repository_owner }}
+    steps:
+      - name: Compute totals
+        run: |
+          created=$(gh api "users/$USER" --jq '.created_at[0:4]')
+          now=$(date -u +%Y)
+          total=0
+          for y in $(seq "$created" "$now"); do
+            n=$(gh api graphql -f q="query{user(login:\"$USER\"){contributionsCollection(from:\"${y}-01-01T00:00:00Z\",to:\"${y}-12-31T23:59:59Z\"){contributionCalendar{totalContributions}}}}" --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+            total=$((total + n))
+          done
+          issues=$(gh api graphql -f q="query{user(login:\"$USER\"){issues{totalCount}}}" --jq '.data.user.issues.totalCount')
+          mkdir -p out
+          badge() { printf '{"schemaVersion":1,"label":"%s","message":"%s","color":"%s","labelColor":"161b22","namedLogo":"%s","logoColor":"%s"}\n' "$1" "$2" "$3" "$4" "$5"; }
+          badge "Contributions" "$total" "7F77DD" "github" "AFA9EC" > out/contributions.json
+          badge "Issues" "$issues" "1D9E75" "github" "9FE1CB" > out/issues.json
+          cat out/*.json
+
+      - name: Publish to stats branch
+        run: |
+          cd out
+          git init -q -b stats
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A && git commit -qm "Update stats"
+          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" stats
