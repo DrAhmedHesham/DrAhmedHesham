@@ -33,7 +33,7 @@
 <br/>
 <img src="assets/claspr-icon.png" width="108" alt="Claspr icon"/><br/>
 <b>Claspr</b><br/><br/>
-<a href="https://apps.apple.com/app/claspr/id6818419380"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" title="App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.claspr.app"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" title="Google Play"/></a>
+<a href="https://apps.apple.com/app/claspr/id6818419380"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" title="App Store"/></a><a href="https://play.google.com/store/apps/details?id=com.claspr.app"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" title="Google Play"/></a>
 <br/><br/>
 </td>
 <td align="center" valign="top" width="33%">
