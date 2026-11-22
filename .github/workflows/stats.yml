@@ -30,8 +30,8 @@ jobs:
           issues=$(gh api graphql -f query="query{user(login:\"$USER\"){issues{totalCount}}}" --jq '.data.user.issues.totalCount')
           mkdir -p out
           badge() { printf '{"schemaVersion":1,"label":"%s","message":"%s","color":"%s","labelColor":"161b22","namedLogo":"%s","logoColor":"%s"}\n' "$1" "$2" "$3" "$4" "$5"; }
-          badge "Contributions" "$total" "7F77DD" "github" "AFA9EC" > out/contributions.json
-          badge "Issues" "$issues" "1D9E75" "github" "9FE1CB" > out/issues.json
+          badge "Contributions" "$total" "484f58" "github" "E6EDF3" > out/contributions.json
+          badge "Issues" "$issues" "30363d" "github" "E6EDF3" > out/issues.json
           cat out/*.json
 
       - name: Publish to stats branch
