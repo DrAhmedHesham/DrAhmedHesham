@@ -24,10 +24,10 @@ jobs:
           now=$(date -u +%Y)
           total=0
           for y in $(seq "$created" "$now"); do
-            n=$(gh api graphql -f q="query{user(login:\"$USER\"){contributionsCollection(from:\"${y}-01-01T00:00:00Z\",to:\"${y}-12-31T23:59:59Z\"){contributionCalendar{totalContributions}}}}" --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
+            n=$(gh api graphql -f query="query{user(login:\"$USER\"){contributionsCollection(from:\"${y}-01-01T00:00:00Z\",to:\"${y}-12-31T23:59:59Z\"){contributionCalendar{totalContributions}}}}" --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
             total=$((total + n))
           done
-          issues=$(gh api graphql -f q="query{user(login:\"$USER\"){issues{totalCount}}}" --jq '.data.user.issues.totalCount')
+          issues=$(gh api graphql -f query="query{user(login:\"$USER\"){issues{totalCount}}}" --jq '.data.user.issues.totalCount')
           mkdir -p out
           badge() { printf '{"schemaVersion":1,"label":"%s","message":"%s","color":"%s","labelColor":"161b22","namedLogo":"%s","logoColor":"%s"}\n' "$1" "$2" "$3" "$4" "$5"; }
           badge "Contributions" "$total" "7F77DD" "github" "AFA9EC" > out/contributions.json
