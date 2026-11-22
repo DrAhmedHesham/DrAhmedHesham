@@ -79,7 +79,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrAhmedHesham&bg_color=0d1117&color=c9d1d9&line=7F77DD&point=5DCAA5&area=true&area_color=26215C&hide_border=true&title_color=AFA9EC&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DrAhmedHesham&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=DrAhmedHesham&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DrAhmedHesham/DrAhmedHesham/output/github-contribution-grid-snake-dark.svg"/>
