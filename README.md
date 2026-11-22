@@ -16,27 +16,29 @@
 
 </div>
 
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 <div align="center">
 
 <table>
 <tr>
 <td align="center" valign="top" width="33%">
-<img src="assets/spacer.png" width="210" height="1" alt=""/><br/>
-<img src="assets/trueshade-icon.png" width="88" alt="TrueShade icon"/><br/>
+<img src="assets/spacer.png" width="230" height="1" alt=""/><br/>
+<img src="assets/trueshade-icon.png" width="108" alt="TrueShade icon"/><br/>
 <b>TrueShade</b><br/><br/>
 <a href="https://apps.apple.com/us/app/trueshade/id6752419756"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/></a>
 <br/><br/>
 </td>
 <td align="center" valign="top" width="33%">
-<img src="assets/spacer.png" width="210" height="1" alt=""/><br/>
-<img src="assets/claspr-icon.png" width="88" alt="Claspr icon"/><br/>
+<img src="assets/spacer.png" width="230" height="1" alt=""/><br/>
+<img src="assets/claspr-icon.png" width="108" alt="Claspr icon"/><br/>
 <b>Claspr</b><br/><br/>
 <a href="https://apps.apple.com/app/claspr/id6818419380"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.claspr.app"><img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
 <br/><br/>
 </td>
 <td align="center" valign="top" width="33%">
-<img src="assets/spacer.png" width="210" height="1" alt=""/><br/>
-<img src="assets/raidngo-icon.png" width="88" alt="RAIDnGo icon"/><br/>
+<img src="assets/spacer.png" width="230" height="1" alt=""/><br/>
+<img src="assets/raidngo-icon.png" width="108" alt="RAIDnGo icon"/><br/>
 <b>RAIDnGo</b><br/><br/>
 <a href="https://apps.apple.com/us/app/raidngo-arc-raiders-companion/id6758266179"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/></a>
 <br/><br/>
@@ -46,129 +48,80 @@
 
 </div>
 
-## Tech stack
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C / C++"/>
-<img src="https://img.shields.io/badge/x86%20%2F%20ARM%20ASM-0B0F19?style=for-the-badge&logo=arm&logoColor=white" alt="x86 / ARM ASM"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-</p>
+<sub>TOOLS I WORK WITH</sub>
 
-### iOS apps
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
-<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-<img src="https://img.shields.io/badge/Core%20ML-34C759?style=for-the-badge&logo=apple&logoColor=black" alt="Core ML"/>
-<img src="https://img.shields.io/badge/Vision-5E5CE6?style=for-the-badge&logo=apple&logoColor=white" alt="Vision"/>
-<img src="https://img.shields.io/badge/ARKit-5856D6?style=for-the-badge&logo=apple&logoColor=white" alt="ARKit"/>
-<img src="https://img.shields.io/badge/AVFoundation-1D1D1F?style=for-the-badge&logo=apple&logoColor=white" alt="AVFoundation"/>
-<img src="https://img.shields.io/badge/WidgetKit-FF9F0A?style=for-the-badge&logo=apple&logoColor=black" alt="WidgetKit"/>
-<img src="https://img.shields.io/badge/StoreKit-1C8CF8?style=for-the-badge&logo=appstore&logoColor=white" alt="StoreKit"/>
-<img src="https://img.shields.io/badge/Core%20Data-003B57?style=for-the-badge&logo=apple&logoColor=white" alt="Core Data"/>
-</p>
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://img.shields.io/badge/Swift-26215C?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+<img src="https://img.shields.io/badge/Kotlin-3C3489?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Java-534AB7?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-7F77DD?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-26215C?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-3C3489?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C / C++"/>
 
-### iOS tweaks
+<sub><b>iOS AND ANDROID</b></sub><br/>
+<img src="https://img.shields.io/badge/SwiftUI-26215C?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+<img src="https://img.shields.io/badge/UIKit-3C3489?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit"/>
+<img src="https://img.shields.io/badge/Core%20ML-534AB7?style=for-the-badge&logo=apple&logoColor=white" alt="Core ML"/>
+<img src="https://img.shields.io/badge/ARKit-7F77DD?style=for-the-badge&logo=apple&logoColor=white" alt="ARKit"/>
+<img src="https://img.shields.io/badge/WidgetKit-26215C?style=for-the-badge&logo=apple&logoColor=white" alt="WidgetKit"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-3C3489?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
 
-<p>
-<img src="https://img.shields.io/badge/Theos-1D1D1F?style=for-the-badge" alt="Theos"/>
-<img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C"/>
-<img src="https://img.shields.io/badge/RootHide-2C3E50?style=for-the-badge" alt="RootHide"/>
-<img src="https://img.shields.io/badge/Rootless-16A085?style=for-the-badge" alt="Rootless"/>
-<img src="https://img.shields.io/badge/Substrate%20%2F%20ElleKit-C0392B?style=for-the-badge" alt="Substrate / ElleKit"/>
-<img src="https://img.shields.io/badge/PreferenceLoader-6C5CE7?style=for-the-badge&logo=apple&logoColor=white" alt="PreferenceLoader"/>
-<img src="https://img.shields.io/badge/SpringBoard%20hooks-0B0F19?style=for-the-badge&logo=apple&logoColor=white" alt="SpringBoard hooks"/>
-<img src="https://img.shields.io/badge/Core%20Animation-FF9F0A?style=for-the-badge&logo=apple&logoColor=black" alt="Core Animation"/>
-<img src="https://img.shields.io/badge/Core%20Motion-34C759?style=for-the-badge&logo=apple&logoColor=black" alt="Core Motion"/>
-<img src="https://img.shields.io/badge/arm64e-00599C?style=for-the-badge&logo=arm&logoColor=white" alt="arm64e"/>
-</p>
+<sub><b>iOS TWEAKS</b></sub><br/>
+<img src="https://img.shields.io/badge/Theos-26215C?style=for-the-badge" alt="Theos"/>
+<img src="https://img.shields.io/badge/Objective--C-3C3489?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C"/>
+<img src="https://img.shields.io/badge/RootHide-534AB7?style=for-the-badge" alt="RootHide"/>
+<img src="https://img.shields.io/badge/Rootless-7F77DD?style=for-the-badge" alt="Rootless"/>
+<img src="https://img.shields.io/badge/Substrate%20%2F%20ElleKit-26215C?style=for-the-badge" alt="Substrate / ElleKit"/>
+<img src="https://img.shields.io/badge/PreferenceLoader-3C3489?style=for-the-badge&logo=apple&logoColor=white" alt="PreferenceLoader"/>
 
-### Android apps
+<sub><b>WEB AND DESKTOP</b></sub><br/>
+<img src="https://img.shields.io/badge/React-26215C?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Three.js-3C3489?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
+<img src="https://img.shields.io/badge/Django-534AB7?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/FastAPI-7F77DD?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/.NET-26215C?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/WPF-3C3489?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF"/>
 
-<p>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" alt="Android Studio"/>
-</p>
+<sub><b>BACKEND AND DATA</b></sub><br/>
+<img src="https://img.shields.io/badge/Firebase-26215C?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Supabase-3C3489?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/PostgreSQL-534AB7?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/SQLite-7F77DD?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Redis-26215C?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 
-### Web
+<sub><b>AI AND MACHINE LEARNING</b></sub><br/>
+<img src="https://img.shields.io/badge/On--device%20AI-26215C?style=for-the-badge" alt="On-device AI"/>
+<img src="https://img.shields.io/badge/Computer%20vision-3C3489?style=for-the-badge" alt="Computer vision"/>
+<img src="https://img.shields.io/badge/LangChain%20%26%20LangGraph-534AB7?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain & LangGraph"/>
+<img src="https://img.shields.io/badge/AI%20agents%20%26%20MCP-7F77DD?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="AI agents & MCP"/>
+<img src="https://img.shields.io/badge/RAG%20%26%20pgvector-26215C?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG & pgvector"/>
+<img src="https://img.shields.io/badge/OpenAI%20%26%20Claude%20APIs-3C3489?style=for-the-badge&logo=anthropic&logoColor=white" alt="OpenAI & Claude APIs"/>
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
+<sub><b>SECURITY AND REVERSE ENGINEERING</b></sub><br/>
+<img src="https://img.shields.io/badge/Ghidra-26215C?style=for-the-badge" alt="Ghidra"/>
+<img src="https://img.shields.io/badge/IDA%20Pro%20%26%20x64dbg-3C3489?style=for-the-badge" alt="IDA Pro & x64dbg"/>
+<img src="https://img.shields.io/badge/Frida%20%26%20radare2-534AB7?style=for-the-badge" alt="Frida & radare2"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-7F77DD?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Wireshark-26215C?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Semgrep%20%26%20SAST-3C3489?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep & SAST"/>
 
-### Desktop
+<sub><b>DEV TOOLS</b></sub><br/>
+<img src="https://img.shields.io/badge/Xcode-26215C?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+<img src="https://img.shields.io/badge/VS%20Code-3C3489?style=for-the-badge" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Docker-534AB7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-7F77DD?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-26215C?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-3C3489?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
-<p>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF"/>
-<img src="https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge" alt="XAML"/>
-</p>
+</div>
 
-### Backend and data
-
-<p>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0B0F19?style=for-the-badge" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-### AI and computer vision
-
-<p>
-<img src="https://img.shields.io/badge/On--device%20AI-34C759?style=for-the-badge" alt="On-device AI"/>
-<img src="https://img.shields.io/badge/Computer%20vision-5E5CE6?style=for-the-badge" alt="Computer vision"/>
-<img src="https://img.shields.io/badge/OpenAI%20%26%20Claude%20APIs-0B0F19?style=for-the-badge&logo=anthropic&logoColor=white" alt="OpenAI & Claude APIs"/>
-<img src="https://img.shields.io/badge/LangChain%20%26%20LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain & LangGraph"/>
-<img src="https://img.shields.io/badge/RAG%20%26%20pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="RAG & pgvector"/>
-<img src="https://img.shields.io/badge/AI%20agents%20%26%20MCP-2E9E8F?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="AI agents & MCP"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
-</p>
-
-### Security and reverse engineering
-
-<p>
-<img src="https://img.shields.io/badge/Ghidra-B5251D?style=for-the-badge" alt="Ghidra"/>
-<img src="https://img.shields.io/badge/IDA%20Pro%20%26%20x64dbg-0B0F19?style=for-the-badge" alt="IDA Pro & x64dbg"/>
-<img src="https://img.shields.io/badge/dnSpy%20%26%20ILSpy-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dnSpy & ILSpy"/>
-<img src="https://img.shields.io/badge/Frida%20%26%20radare2-E8722A?style=for-the-badge" alt="Frida & radare2"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Semgrep%20%26%20SAST-4CBA8F?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep & SAST"/>
-<img src="https://img.shields.io/badge/OWASP%20AppSec-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP AppSec"/>
-</p>
-
-### Tools and infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge" alt="Visual Studio"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</p>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
