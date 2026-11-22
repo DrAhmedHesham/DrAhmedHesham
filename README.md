@@ -1,44 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:0b1020&height=170&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=42&animation=fadeIn" alt="Hi, I'm Ahmed" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26215C,100:0b1020&height=200&section=header&text=Hi%2C%20I%27m%20Ahmed&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Prosthodontist%20By%20Profession%20%C2%B7%20Developer%20By%20Passion&descSize=17&descAlignY=58&animation=fadeIn" alt="Hi, I'm Ahmed" width="100%"/>
 
-<a href="https://github.com/DrAhmedHesham"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=AFA9EC&center=true&vCenter=true&width=720&height=48&letterSpacing=1px&lines=Software+Engineer+%C2%B7+Security+Researcher;Mobile+And+AI+Builder;Reversing+Apps+%C2%B7+Hooking+iOS+%C2%B7+Shipping+AI+Agents;Building+Dental+Tech+With+On-Device+AI;iOS+%C2%B7+Android+%C2%B7+Web" alt="Software Engineer · Security Researcher · Mobile And AI Builder"/></a>
+<a href="https://github.com/DrAhmedHesham"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=AFA9EC&center=true&vCenter=true&width=720&height=48&letterSpacing=1px&lines=Turning+Clinical+Problems+Into+Apps+People+Use;Dental+Tech+%C2%B7+TrueShade+%C2%B7+Claspr;iOS+%C2%B7+Android+%C2%B7+Jailbreak+Tweaks;Security+Research+%C2%B7+Reverse+Engineering;On-Device+AI+%C2%B7+Computer+Vision+%C2%B7+AI+Agents" alt="Turning Clinical Problems Into Apps People Use"/></a>
 
 <a href="https://drahmed.me"><img src="https://img.shields.io/badge/drahmed.me-26215C?style=for-the-badge&logo=googlechrome&logoColor=CECBF6" alt="Website"/></a>
 <a href="https://psnprofiles.com/DrAhmedHesham"><img src="https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PSN"/></a>
 <img src="https://komarev.com/ghpvc/?username=DrAhmedHesham&style=for-the-badge&color=7F77DD&label=%F0%9F%91%81" alt="Profile views"/>
-
-</div>
-
-## About me
-
-<div align="center">
-
-### Prosthodontist By Profession, Developer By Passion
-
-<sub>Turning clinical problems into apps people actually use</sub>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h1>🦷</h1>
-<b>Dental Tech</b><br/>
-<sub>TrueShade · Claspr</sub>
-</td>
-<td align="center" width="33%">
-<h1>📱</h1>
-<b>Mobile</b><br/>
-<sub>iOS · Android · Tweaks</sub>
-</td>
-<td align="center" width="33%">
-<h1>🛡️</h1>
-<b>Security And AI</b><br/>
-<sub>Reversing · Agents · Vision</sub>
-</td>
-</tr>
-</table>
 
 </div>
 
