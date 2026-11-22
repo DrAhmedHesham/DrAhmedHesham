@@ -52,10 +52,6 @@
 
 <div align="center">
 
-<sub>TOOLS I WORK WITH</sub>
-
-<br/>
-
 <sub><b>LANGUAGES</b></sub><br/>
 <img src="https://img.shields.io/badge/Swift-26215C?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 <img src="https://img.shields.io/badge/Kotlin-3C3489?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -71,22 +67,12 @@
 <img src="https://img.shields.io/badge/ARKit-7F77DD?style=for-the-badge&logo=apple&logoColor=white" alt="ARKit"/>
 <img src="https://img.shields.io/badge/WidgetKit-26215C?style=for-the-badge&logo=apple&logoColor=white" alt="WidgetKit"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-3C3489?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-
-<sub><b>iOS TWEAKS</b></sub><br/>
-<img src="https://img.shields.io/badge/Theos-26215C?style=for-the-badge" alt="Theos"/>
-<img src="https://img.shields.io/badge/Objective--C-3C3489?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C"/>
-<img src="https://img.shields.io/badge/RootHide-534AB7?style=for-the-badge" alt="RootHide"/>
-<img src="https://img.shields.io/badge/Rootless-7F77DD?style=for-the-badge" alt="Rootless"/>
-<img src="https://img.shields.io/badge/Substrate%20%2F%20ElleKit-26215C?style=for-the-badge" alt="Substrate / ElleKit"/>
-<img src="https://img.shields.io/badge/PreferenceLoader-3C3489?style=for-the-badge&logo=apple&logoColor=white" alt="PreferenceLoader"/>
-
-<sub><b>WEB AND DESKTOP</b></sub><br/>
-<img src="https://img.shields.io/badge/React-26215C?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Three.js-3C3489?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-<img src="https://img.shields.io/badge/Django-534AB7?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/FastAPI-7F77DD?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/.NET-26215C?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-<img src="https://img.shields.io/badge/WPF-3C3489?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF"/>
+<img src="https://img.shields.io/badge/Theos-534AB7?style=for-the-badge" alt="Theos"/>
+<img src="https://img.shields.io/badge/Objective--C-7F77DD?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C"/>
+<img src="https://img.shields.io/badge/RootHide-26215C?style=for-the-badge" alt="RootHide"/>
+<img src="https://img.shields.io/badge/Rootless-3C3489?style=for-the-badge" alt="Rootless"/>
+<img src="https://img.shields.io/badge/Substrate%20%2F%20ElleKit-534AB7?style=for-the-badge" alt="Substrate / ElleKit"/>
+<img src="https://img.shields.io/badge/PreferenceLoader-7F77DD?style=for-the-badge&logo=apple&logoColor=white" alt="PreferenceLoader"/>
 
 <sub><b>BACKEND AND DATA</b></sub><br/>
 <img src="https://img.shields.io/badge/Firebase-26215C?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
@@ -110,14 +96,6 @@
 <img src="https://img.shields.io/badge/Burp%20Suite-7F77DD?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
 <img src="https://img.shields.io/badge/Wireshark-26215C?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 <img src="https://img.shields.io/badge/Semgrep%20%26%20SAST-3C3489?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep & SAST"/>
-
-<sub><b>DEV TOOLS</b></sub><br/>
-<img src="https://img.shields.io/badge/Xcode-26215C?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
-<img src="https://img.shields.io/badge/VS%20Code-3C3489?style=for-the-badge" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Docker-534AB7?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Linux-7F77DD?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-<img src="https://img.shields.io/badge/Git-26215C?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-3C3489?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
 </div>
 
